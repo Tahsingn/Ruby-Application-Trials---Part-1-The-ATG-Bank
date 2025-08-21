@@ -1,7 +1,7 @@
 # Ruby Application Trials – Part 1: The ATG Bank
 
 This is a simple practice project to explore Ruby and basic application patterns.  
-In this part, we simulate a minimal banking system called **ATG Bank**.
+In this part, I simulated a minimal banking system called **ATG Bank**.
 
 ## Installation
 ```bash
