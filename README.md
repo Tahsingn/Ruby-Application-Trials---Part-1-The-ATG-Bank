@@ -1,7 +1,10 @@
-# Ruby-Application-Trials---Part-1-The-ATG-Bank
-This is a simple practice project to explore Ruby software and their algoryhtms.   In this part,  I simulated a basic banking system called **ATG Bank**.
+# Ruby Application Trials – Part 1: The ATG Bank
+
+This is a simple practice project to explore Ruby and basic application patterns.  
+In this part, we simulate a minimal banking system called **ATG Bank**.
+
 ## Installation
 ```bash
-git clone https://github.com/Tahsingn/ruby-atg-bank.git
-cd ruby-atg-bank
-ruby main.rb
+git clone https://github.com/Tahsingn/Ruby-Application-Trials---Part-1-The-ATG-Bank.git
+cd Ruby-Application-Trials---Part-1-The-ATG-Bank
+ruby ATG_Bank.rb
